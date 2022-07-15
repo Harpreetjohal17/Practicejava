@@ -1,0 +1,96 @@
+in java we have a plus symbol 
+
+
++ --- concatination/Appending
+
+if any string is coming first and after that plus symbol is there - next part automatically convert in to String
+
+
+if user seen anywhere void symbol - that is called a Method
+
+what is class?
+
+class is a combination of Methods , object and Constructor
+
+if any thing is missing we cant execute our pgm
+
+Constructor name and class name should be same
+
+Object ?
+
+Object is a replica of class - or we can say blue print of class
+
+WebDriver driver = new ChromeDriver() --- Run Time polymorphism
+
+Constructor/MOL/OR /INheritance /Class Object
+
+
+- 3 days in a week 
+
+Wednesday - Friday - Sunday 
+
+friday - 1 pm ist and your 12:30 pst
+
+
+
+
+
+Inheritance ?
+
+acquiring the properties from other class - that is called a Inheritance 
+and we can achieve with the help of extends keyword in java
+
+
+--- Multilevel inheritance - 
+
+
+Step by step Inheritance - Generation by generation transformation is called a Multilevel Inheritance
+
+
+Multiple Inheritance ?
+
+if one class want to inherit more than one class at a time - that is called a Multiple Inheritance
+
+can we achieve multiple inheritance in java ?
+
+No , we cant achieve multiple inheritance at class level but we can achieve at interface level
+that part will discuss in interface
+
+What is the major difference in Multiple and Multilevel
+
+What is single Inheritance ? - with the help of extends keyword
+
+Many To one inheritance?
+
+One to Many Inheritance - Multiple Inheritance - Interface level only
+
+Assignment - Currency pgm according to the currency in different Country
+
+IS- A relation 
+Has- A Relation in inheritance
+
+
+Method Over riding :- in Method Over riding we have to create a Same Methods but in different classes and 
+
+Implementation should be different and we can achieve with the help of inheritance
+
+
+
+
+
+
+
+
+
+
+
+2 installment 
+
+Selenium with java and Appium as well - Maven , TestNg , Cucumber , Jenkins , Browserstack 
+
+225 + 225 - usd
+
+450 USD
+
+Transferwise , Xoom
+
