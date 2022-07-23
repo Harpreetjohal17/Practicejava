@@ -1,25 +1,25 @@
-class currency {
-	public void category() {
-		System.out.println("currency");
+class UN {
+	public void CurrencyGenartor() {
+		System.out.println("Currency growth calculator");
 
 	}
 }
 
-class India extends currency {
+class India extends UN {
 	public void type () {
 		System.out.println("Rupees");
 	}
 
 }
 
-class USA extends currency{
+class USA extends UN{
 	public void type() {
 		System.out.println("dollars");
 	}
 
 }
 
-class UK extends currency {
+class UK extends UN {
 	public void type() {
 		System.out.println("pounds");
 	}
@@ -31,16 +31,18 @@ public class Currencytest {
 	public static void main(String[] args) {
 		
 		India in = new India();
-		in.category();
+		in.CurrencyGenartor();
 		in.type();
 		
 		USA u = new USA();
-		u.category();
+		u.CurrencyGenartor();;
 		u.type();
 		
 		UK uk = new UK();
-		uk.category();
+		uk.CurrencyGenartor();;
 		uk.type();
+		
+		//
 	}
 
 }

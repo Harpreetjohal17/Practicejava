@@ -6,7 +6,7 @@ class MOR
 	}
 }
 
-class MOR1 
+class MOR1 extends MOR
 {
 	
 	

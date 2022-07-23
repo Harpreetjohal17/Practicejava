@@ -94,3 +94,54 @@ Selenium with java and Appium as well - Maven , TestNg , Cucumber , Jenkins , Br
 
 Transferwise , Xoom
 
+
+
+
+
+Assignmnet - MNC Company where slary and govt policy will change according to country and logo would be same 
+
+create pgm with method over riding
+
+
+
+Method Overloading:-
+
+Same Methods ,in same class but signature/Parameter/Data type - should be different 
+
+we cant use inheritance
+
+
+Data Type :-
+
+int -- whole number -- medium Range
+long -- whole number -- high range
+short -- whole number -- lesss than int and higher than byte
+byte -- whole number -- very low range
+
+double -- decimal -- high range
+float -- decimal -- low range
+
+char -- 'a' 'b'
+
+boolean-- true/false
+
+String - String is not a d ata type - it is a class - "<anything"
+but we will use like a data type 
+
+why - that will discuss in String Topic 
+
+
+Constructor :- 
+
+- Constructor name and class name should be same - Mandatory
+- if user is not declaring any constructor - jvm will create Blank or defalut constructor
+- if user is delcaring any constructor - jvm never create blank or default constructor
+
+- constructor doesn't have any return type-  Like void 
+
+
+
+
+
+
+
