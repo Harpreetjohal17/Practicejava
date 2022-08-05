@@ -140,6 +140,22 @@ Constructor :-
 - constructor doesn't have any return type-  Like void 
 
 
+Polymorphism :- same object behaving different different instance through out the execution of the pgm
+
+that is called a polymorphism
+
+we have two type of polymorphism
+
+
+run time polymorphism  :-  Method Over riding , Inheritance , Upcasting - all three is mandatory
+
+Upcasting :- Trying to create a object of Parent class and call child Constructor - that is called Upcasting
+
+Compile Time polymorphism - Method Over loading
+
+Assignmnet :- How we can say that Compile time is a Method Over loading 
+
+
 
 
 

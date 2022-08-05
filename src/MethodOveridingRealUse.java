@@ -13,6 +13,10 @@ class KFCAmerica
 
 class KFCIndia extends KFCAmerica
 {
+	public void OtherProduct()
+	{
+		System.out.println("Other Pizza ");
+	}
 	
 	
 	
@@ -36,10 +40,10 @@ public class MethodOveridingRealUse {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		KFCIndia k = new KFCIndia();
+		KFCAmerica k = new KFCIndia(); // upcasting
 		k.Location();
 		k.getProduct();
-
+		
 	}
 
 }
